@@ -12,4 +12,3 @@ Supports basic arithmetic operations: addition, subtraction, multiplication, div
 - `style.css` → Styling and layout  
 - `script.js` → Functionality and logic
 
-  https://harrisjerome.github.io/Calci/
