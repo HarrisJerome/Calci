@@ -10,4 +10,6 @@ Supports basic arithmetic operations: addition, subtraction, multiplication, div
 ## 📂 Files
 - `index.html` → Structure of the calculator  
 - `style.css` → Styling and layout  
-- `script.js` → Functionality and logic  
+- `script.js` → Functionality and logic
+
+  https://harrisjerome.github.io/Calci/
